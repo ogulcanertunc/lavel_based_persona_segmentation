@@ -16,5 +16,4 @@ First, let’s get to know our data sets.
 **Purchase Dataset** shows the date of purchase (date), user id (uid),
 and the amount spent (purchase).
 
-You can look at my medium page for detailed explanation.
-[Medium page](https://medium.com/ogi-on-ds/level-based-persona-cf1bcb708b70)
+You can look at my [Medium page](https://medium.com/ogi-on-ds/level-based-persona-cf1bcb708b70) for detailed explanation.
